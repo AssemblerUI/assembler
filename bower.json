@@ -1,0 +1,30 @@
+{
+  "name": "assembler",
+  "description": "A library that allows you to create sites &amp; web apps with ease",
+  "version": "0.1.0",
+  "keywords": [
+    "html",
+    "css",
+    "sass",
+    "javascript",
+    "framework",
+    "library"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "/.*",
+    "node_modules",
+    "bower_components",
+    "docs",
+    "src/scripts/tests",
+    "tasks",
+    "_config.yml",
+    "browserlist",
+    "Gemfile",
+    "Gemfile.lock",
+    "Gruntfile.js",
+    "CONTRIBUTING.md",
+    "OWNERS.md",
+    "component.json"
+  ]
+}

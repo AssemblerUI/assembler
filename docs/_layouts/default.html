@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<!-- Meta, title, CSS, favicons, etc. -->
+		{% include meta.html %}
+	</head>
+	<body>
+		<a class="sr-only sr-only-focusable" href="#content"><span class="skiplink-text">Skip to main content</span></a>
+		<header id="header">Assembler</header>
+		<main id="main">
+			{{ content }}
+		</main>
+		{% include footer.html %}
+		{% include scripts.html %}
+	</body>
+</html>

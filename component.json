@@ -1,0 +1,33 @@
+{
+  "name": "assembler",
+  "description": "A library that allows you to create sites &amp; web apps with ease",
+  "version": "0.1.0",
+  "keywords": [
+    "html",
+    "css",
+    "sass",
+    "javascript",
+    "framework",
+    "library"
+  ],
+  "main": [
+    "./dist/styles/assembler.css",
+    "./dist/styles/assembler.min.css",
+    "./dist/scripts/assembler.js",
+    "./dist/scripts/assembler.min.js"
+  ],
+  "styles": [
+    [
+      "./dist/styles/assembler.css",
+      "./dist/styles/assembler.min.css"
+    ]
+  ],
+  "scripts": [
+    [
+      "./dist/scripts/assembler.js",
+      "./dist/scripts/assembler.min.js"
+    ]
+  ],
+  "demo": "https://chrisopedia.github.io/assembler",
+  "license": "MIT"
+}
