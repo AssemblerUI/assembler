@@ -77,6 +77,11 @@ before getting started.
 Editor preferences are available in the [editor config](https://github.com/chrisopedia/assembler/blob/master/.editorconfig)
 for use in common text editors. Read more and download plugins at <http://editorconfig.org>.
 
+:exclamation: **This project adheres to the [Open Code of Conduct][code-of-conduct]. 
+By participating, you are expected to honor this code.**
+
 ## Copyright
 
 :copyright: 2015. See the [LICENSE](https://github.com/chrisopedia/assembler/blob/master/LICENSE.md)
+
+[code-of-conduct]: http://todogroup.org/opencodeofconduct/#assemblerui/assemblerui@gmail.com
