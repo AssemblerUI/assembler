@@ -1,5 +1,7 @@
 # Assembler
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/AssemblerUI/assembler.svg)](https://greenkeeper.io/)
+
 A library that allows you to create sites &amp; web apps with ease
 
 ## Table of contents
